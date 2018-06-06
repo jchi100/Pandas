@@ -12,7 +12,7 @@ Top Spenders
 Most Popular Items
 Most Profitable Items
 
-Academy of Py
+PyCitySchools
 
 The project is to analyze the district-wide standardized test results, helping the school board to make strategic decisions regarding future school budgets and priorities. Aggregate the data to and showcase obvious trends in school performance.
 The final report includes: District Summary, School Summary, Top Performing Schools (By Passing Rate), Math Scores by Grade, Reading Scores by Grade, Scores by School Spending, Scores by School Size(Small, Medium, Large), Scores by School Type
